@@ -18,22 +18,22 @@ The Food Bank Inventory Management System (FBIMS) is a specialized software solu
 
 ## 📖 Documentation Structure
 
-- **[User Guide](user-guide/)** - Instructions for using FBIMS
-- **[Technical Documentation](technical/)** - API references and technical details
-- **[Project Information](project/)** - Project status, roadmap, and changelog
-- **[Administration](admin/)** - Setup and maintenance guides
+- **[User Guide](https://codevalve.github.io/fbims-docs/user-guide/)** - Instructions for using FBIMS
+- **[Technical Documentation](https://codevalve.github.io/fbims-docs/technical/)** - API references and technical details
+- **[Project Information](https://codevalve.github.io/fbims-docs/project/)** - Project status, roadmap, and changelog
+- **[Administration](https://codevalve.github.io/fbims-docs/admin/)** - Setup and maintenance guides
 
 ## 🚀 Getting Started
 
 To get started with FBIMS:
 
-1. Check out our [Getting Started Guide](user-guide/getting-started)
-2. Review the [Core Functionality](Charity_Food_Bank_App_Core_Functionality)
-3. Explore our [Development Roadmap](Charity_Food_Bank_App_Development_Roadmap)
+1. Check out our [Getting Started Guide](https://codevalve.github.io/fbims-docs/user-guide/getting-started)
+2. Review the [Core Functionality](https://codevalve.github.io/fbims-docs/Charity_Food_Bank_App_Core_Functionality)
+3. Explore our [Development Roadmap](https://codevalve.github.io/fbims-docs/Charity_Food_Bank_App_Development_Roadmap)
 
 ## 👥 Contributing
 
-We welcome contributions from the community! Please read our [Contributing Guidelines](contributing) to get started.
+We welcome contributions from the community! Please read our [Contributing Guidelines](https://codevalve.github.io/fbims-docs/contributing) to get started.
 
 ## 🛠 Local Development
 
